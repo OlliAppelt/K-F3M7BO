@@ -11,5 +11,4 @@ ________________________________________________________________________________
 ## Tools / Materiaal:
 * Arduino - GROVE I2C TOUCH SENSOR
 * Arduino IDE
-* Bedrading 
-* Handschoen
+* Bedrading
