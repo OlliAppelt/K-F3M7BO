@@ -12,3 +12,13 @@ ________________________________________________________________________________
 * Arduino - GROVE I2C TOUCH SENSOR
 * Arduino IDE
 * Bedrading
+___________________________________________________________________________________________
+## Bronnenlijst:
+* https://docs.microsoft.com/en-us/dotnet/api/system.io.ports.serialport?view=dotnet-plat-ext-6.0
+* https://www.arduino.cc/en/software
+* https://github.com/XR-lab/Eurovisie/tree/development/Assets/Scripts/Input
+* https://wiki.seeedstudio.com/Grove-I2C_Touch_Sensor/
+* https://github.com/Seeed-Studio/Seeed_MRP121
+* https://forum.arduino.cc/t/grove-i2c-touch-sensor-with-arduino-nano/123225
+* https://create.arduino.cc/projecthub/talofer99/turn-almost-any-surface-into-a-touch-button-with-mpr121-cc4205
+* https://arduinogetstarted.com/tutorials/arduino-touch-sensor
