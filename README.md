@@ -1,10 +1,14 @@
 # K-F3M7BO
 ## Documenten:
 * <a href="/Documents/Onderzoek.pdf">Onderzoek</a>
-* <a href="/Documents/Samenvatting.pdf">Samenvatting</a>
+* <a href="/Documents/Logboek.pdf">Logboek</a>
 * <a href="/Documents/Bronnenlijst.pdf">Bronnenlijst</a>
-
-
+* <a href="/Documents/Nawoord.pdf">Nawoord</a>
+___________________________________________________________________________________________
+## Studenten:
+Kilian Bultje 
+Olli Appelt
+___________________________________________________________________________________________
 ## Product:
 Ons product houdt simplificatie in. Wij gaan iets bestaands makkelijker en toegankelijker maken voor het algemene publiek. We zijn tot de conclusie gekomen om een input controller te maken met bruikbaarheid voor voornamelijk games. Maar zie ook dat ons product gebruikt kan worden voor digitale muziek intrumenten. Hier vallen tools voor dagelijks gebruik niet onder, bijvoorbeeld: regelaar voor thermostaat. Zou mogelijk zijn, maar valt niet binnen onze focus. 
 ___________________________________________________________________________________________
@@ -21,12 +25,3 @@ ________________________________________________________________________________
 * Uno-Joy
 * Bedrading
 ___________________________________________________________________________________________
-## Bronnenlijst:
-* https://docs.microsoft.com/en-us/dotnet/api/system.io.ports.serialport?view=dotnet-plat-ext-6.0
-* https://www.arduino.cc/en/software
-* https://github.com/XR-lab/Eurovisie/tree/development/Assets/Scripts/Input
-* https://wiki.seeedstudio.com/Grove-I2C_Touch_Sensor/
-* https://github.com/Seeed-Studio/Seeed_MRP121
-* https://forum.arduino.cc/t/grove-i2c-touch-sensor-with-arduino-nano/123225
-* https://create.arduino.cc/projecthub/talofer99/turn-almost-any-surface-into-a-touch-button-with-mpr121-cc4205
-* https://arduinogetstarted.com/tutorials/arduino-touch-sensor
