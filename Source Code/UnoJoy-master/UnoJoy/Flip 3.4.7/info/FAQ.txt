@@ -1,1 +1,0 @@
-The Flip package FAQ is located in the TroubleShooting manual (Help > Contents menu).
