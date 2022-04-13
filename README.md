@@ -1,5 +1,10 @@
 # K-F3M7BO
-### Product:
+## Documenten:
+* <a href="/Documents/Onderzoek.pdf">Onderzoek</a>
+* <a href="/Documents/Samenvatting.pdf">Samenvatting</a>
+
+
+## Product:
 Ons product houdt simplificatie in. Wij gaan iets bestaands makkelijker en toegankelijker maken voor het algemene publiek. We zijn tot de conclusie gekomen om een input controller te maken met bruikbaarheid voor voornamelijk games. Maar zie ook dat ons product gebruikt kan worden voor digitale muziek intrumenten. Hier vallen tools voor dagelijks gebruik niet onder, bijvoorbeeld: regelaar voor thermostaat. Zou mogelijk zijn, maar valt niet binnen onze focus. 
 ___________________________________________________________________________________________
 ## Hardware / Software:
@@ -14,7 +19,6 @@ ________________________________________________________________________________
 * Bedrading
 ___________________________________________________________________________________________
 ## Bronnenlijst:
-* <a href="/Documents/Onderzoek.pdf">Onderzoek</a>
 * https://docs.microsoft.com/en-us/dotnet/api/system.io.ports.serialport?view=dotnet-plat-ext-6.0
 * https://www.arduino.cc/en/software
 * https://github.com/XR-lab/Eurovisie/tree/development/Assets/Scripts/Input
