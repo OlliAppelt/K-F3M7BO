@@ -2,7 +2,7 @@
 ## Documenten:
 * <a href="/Documents/Onderzoek.pdf">Onderzoek</a>
 * <a href="/Documents/Samenvatting.pdf">Samenvatting</a>
-* <a href="/Documents/Samenvatting.pdf">Bronnelijst</a>
+* <a href="/Documents/Samenvatting.pdf">Bronnenlijst</a>
 
 
 ## Product:
