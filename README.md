@@ -6,8 +6,8 @@
 * <a href="/Documents/Nawoord.pdf">Nawoord</a>
 ___________________________________________________________________________________________
 ## Studenten:
-Kilian Bultje 
-Olli Appelt
+* Kilian Bultje 
+* Olli Appelt
 ___________________________________________________________________________________________
 ## Product:
 Ons product houdt simplificatie in. Wij gaan iets bestaands makkelijker en toegankelijker maken voor het algemene publiek. We zijn tot de conclusie gekomen om een input controller te maken met bruikbaarheid voor voornamelijk games. Maar zie ook dat ons product gebruikt kan worden voor digitale muziek intrumenten. Hier vallen tools voor dagelijks gebruik niet onder, bijvoorbeeld: regelaar voor thermostaat. Zou mogelijk zijn, maar valt niet binnen onze focus. 
