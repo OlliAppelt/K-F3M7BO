@@ -14,6 +14,7 @@ ________________________________________________________________________________
 * Bedrading
 ___________________________________________________________________________________________
 ## Bronnenlijst:
+* <a href="/Documents/Onderzoek.pdf">Onderzoek</a>
 * https://docs.microsoft.com/en-us/dotnet/api/system.io.ports.serialport?view=dotnet-plat-ext-6.0
 * https://www.arduino.cc/en/software
 * https://github.com/XR-lab/Eurovisie/tree/development/Assets/Scripts/Input
