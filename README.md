@@ -1,6 +1,7 @@
 # K-F3M7BO
 ## Documenten:
 * <a href="/Documents/Onderzoek.pdf">Onderzoek</a>
+* <a href="/Documents/Testplan.pdf">Testplan</a>
 * <a href="/Documents/Logboek.pdf">Logboek</a>
 * <a href="/Documents/Bronnenlijst.pdf">Bronnenlijst</a>
 * <a href="/Documents/Nawoord.pdf">Nawoord</a>
